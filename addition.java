@@ -20,7 +20,7 @@ int num2= Integer.parseInt(args[1]);
 
 // Calculate the sum
 
-int sum num1 + num2;
+int sum = num1 + num2;
 
 // Display the result
 
